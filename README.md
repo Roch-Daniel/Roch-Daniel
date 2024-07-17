@@ -19,8 +19,8 @@
 
 # Perfil
 <div>
-  <a href="https://github.com/Daniel-Roch/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Roch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Roch&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Roch-Daniel/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roch-Daniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roch-Daniel&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
